@@ -12,6 +12,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Physical information file (PIF)](https://citrineinformatics.github.io/pif-documentation/index.html): Schema for information about physical systems, maintained by Citrine informatics. [![Github Stars](https://img.shields.io/github/stars/CitrineInformatics/pypif?style=social)](https://github.com/CitrineInformatics/pypif) ![GitHub last commit](https://img.shields.io/github/last-commit/CitrineInformatics/pypif?style=social)
 
+- [KRISS Materials Reserach Standard Schema](https://github.com/krlee227/MatResData-Standard-Committee/blob/main/dictionary%20ver.%202023%20working%20(230531).json): Standard schema and vocabulary of materials R&D data from the Korean National Center of Materials Research Data and the Korean Reserach Institute of Standards and Science [(KRISS)](https://www.kriss.re.kr/eng/). ![GitHub Stars](https://img.shields.io/github/stars/krlee227/MatResData-Standard-Committee?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/krlee227/MatResData-Standard-Committee?style=social)
+
 
 ### Generic Data Models and Top-level Ontologies
 
