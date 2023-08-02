@@ -10,13 +10,15 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Materials Properties Wikipedia](https://en.wikipedia.org/wiki/List_of_materials_properties): A classification and definitions of materials properties in Wikipedia.
 
-- [Kittel, Charles. Introduction to Solid State Physics. Wiley, 2004](https://www.wiley.com/en-us/Introduction+to+Solid+State+Physics%2C+8th+Edition-p-9780471415268)📖: A standard solid state physics book with chapters dedicated to definitions and derivations for various material properties. 
+- [Kittel, Charles. Introduction to Solid State Physics. Wiley, 2004](https://www.wiley.com/en-us/Introduction+to+Solid+State+Physics%2C+8th+Edition-p-9780471415268)📖: A standard solid state physics book with chapters dedicated to definitions and derivations for various material properties.
 
 - [KRISS Materials Research Standard Schema](https://github.com/krlee227/MatResData-Standard-Committee/blob/main/dictionary%20ver.%202023%20working%20(230531).json): Standard schema and vocabulary of materials R&D data from the Korean National Center of Materials Research Data and the Korean Research Institute of Standards and Science [(KRISS)](https://www.kriss.re.kr/eng/). ![GitHub Stars](https://img.shields.io/github/stars/krlee227/MatResData-Standard-Committee?style=social)![GitHub last commit](https://img.shields.io/github/last-commit/krlee227/MatResData-Standard-Committee?style=social)
 
 - [Physical information file (PIF)](https://citrineinformatics.github.io/pif-documentation/index.html): Schema for information about physical systems, maintained by Citrine informatics. [![Github Stars](https://img.shields.io/github/stars/CitrineInformatics/pypif?style=social)](https://github.com/CitrineInformatics/pypif) ![GitHub last commit](https://img.shields.io/github/last-commit/CitrineInformatics/pypif?style=social)
 
 - [Graphical Expression of Materials Data (GEMD)](https://citrineinformatics.github.io/gemd-docs/): - Open-source format that links together materials, the processes that produced them, and the measurements that characterize them. Initially developed by Citrine Informatics, supersedes PIF.
+
+- [Properties from the NIST Materials Data Vocabulary Ontology (NMRRVOCAB)](https://matportal.org/ontologies/NMRRVOCAB/?p=classes&conceptid=http%3A%2F%2F192.168.1.4%2Fvocab%2F%3Ftema%3D100): Ontology for materials properties from the National Institute of Standards and Technology (NIST).
 
 ### Generic Data Models and Top-level Ontologies
 
@@ -28,7 +30,9 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Materials Genome Initiative JSON](https://github.com/usnistgov/mgi-json-schema): JSON schema for materials science and engineering. Directly related is [Material Schema](https://github.com/usnistgov/material-schema) which aims to extend schema.org for materials science. [![Github Stars](https://img.shields.io/github/stars/usnistgov/mgi-json-schema?style=social)](https://github.com/usnistgov/mgi-json-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/usnistgov/mgi-json-schema?style=social)
 
-- [Chemical Information Ontology](https://github.com/egonw/semanticchemistry/): "aims to establish a standard in representing chemical information. In particular, it aims to produce an ontology to represent chemical structure and to richly describe chemical properties, whether intrinsic or computed." (direct quote from the `README`) [![Github Stars](https://img.shields.io/github/stars/egonw/semanticchemistry?style=social)](https://github.com/egonw/semanticchemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/egonw/semanticchemistry?style=social) [📄](https://doi.org/10.1371/journal.pone.0025513).
+- [NIST Materials Data Vocabulary Ontology (NMRRVOCAB)](https://matportal.org/ontologies/NMRRVOCAB): Materials data vocabulary ontology from the National Institute of Standards and Technology (NIST) as Simple Knowledge Organization System (SKOS).
+
+- [Chemical Information Ontology](https://github.com/egonw/semanticchemistry/): Aims to establish a standard in representing chemical information. In particular, it aims to produce an ontology to represent chemical structure and to richly describe chemical properties, whether intrinsic or computed." (direct quote from the `README`) [![Github Stars](https://img.shields.io/github/stars/egonw/semanticchemistry?style=social)](https://github.com/egonw/semanticchemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/egonw/semanticchemistry?style=social) [📄](https://doi.org/10.1371/journal.pone.0025513).
 
 
 ## Initiatives | Consortia
@@ -40,8 +44,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Related Compilations
 
 - [MatPortal](https://matportal.org/): Collection of ontologies used in materials science.
-- [awesome materials informatics](https://github.com/tilde-lab/awesome-materials-informatics/edit/master/README.md): overview of software, data and initiatives in the field of materials informatics
-- [awesome chemical data](https://github.com/neo-chem/awesome-chemical-data): overview of chemical and materials data resources
+- [awesome materials informatics](https://github.com/tilde-lab/awesome-materials-informatics/edit/master/README.md): overview of software, data and initiatives in the field of materials informatics.
+- [awesome chemical data](https://github.com/neo-chem/awesome-chemical-data): overview of chemical and materials data resources.
 
 ## Credits
 
