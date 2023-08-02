@@ -16,13 +16,15 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Physical information file (PIF)](https://citrineinformatics.github.io/pif-documentation/index.html): Schema for information about physical systems, maintained by Citrine informatics. [![Github Stars](https://img.shields.io/github/stars/CitrineInformatics/pypif?style=social)](https://github.com/CitrineInformatics/pypif) ![GitHub last commit](https://img.shields.io/github/last-commit/CitrineInformatics/pypif?style=social)
 
+- [Graphical Expression of Materials Data (GEMD)](https://citrineinformatics.github.io/gemd-docs/): - Open-source format that links together materials, the processes that produced them, and the measurements that characterize them. Initially developed by Citrine Informatics, supersedes PIF.
+
 ### Generic Data Models and Top-level Ontologies
 
 - [SciData](https://github.com/stuchalk/scidata): Scientific data model (SDM) and related ontology (SDMO). [![Github Stars](https://img.shields.io/github/stars/stuchalk/scidata?style=social)](https://github.com/stuchalk/scidata) ![GitHub last commit](https://img.shields.io/github/last-commit/stuchalk/scidata?style=social)
 
 - [BFO](https://github.com/BFO-ontology/BFO): The Basic Formal Ontology (BFO) is an upper-level ontology "designed for use in supporting information retrieval, analysis and integration in scientific and other domains", under development since 2002 (last release 2019). [![Github Stars](https://img.shields.io/github/stars/BFO-ontology/BFO?style=social)](https://github.com/BFO-ontology/BFO) ![GitHub last commit](https://img.shields.io/github/last-commit/BFO-ontology/BFO?style=social)
 
-- [European Materials and Modelling Ontology (EMMO)](https://emmc.info/emmo-info/): An ontology designed to represent the "complex multiscale nature of chemicals and materials" with varying analytical philosophical interpretations. Available from the [emmo-repo](https://github.com/emmo-repo/) organisation on GitHub. [![Github Stars](https://img.shields.io/github/stars/emmo-repo/EMMO?style=social)](https://github.com/emmo-repo/EMMO) ![GitHub last commit](https://img.shields.io/github/last-commit/emmo-repo/EMMO?style=social)
+- [European Materials and Modelling Ontology (EMMO)](https://emmc.info/emmo-info/): An ontology designed to represent the "complex multiscale nature of chemicals and materials" with varying analytical philosophical interpretations. Available from the [emmo-repo](https://github.com/emmo-repo/) organization on GitHub. [![Github Stars](https://img.shields.io/github/stars/emmo-repo/EMMO?style=social)](https://github.com/emmo-repo/EMMO) ![GitHub last commit](https://img.shields.io/github/last-commit/emmo-repo/EMMO?style=social)
 
 - [Materials Genome Initiative JSON](https://github.com/usnistgov/mgi-json-schema): JSON schema for materials science and engineering. Directly related is [Material Schema](https://github.com/usnistgov/material-schema) which aims to extend schema.org for materials science. [![Github Stars](https://img.shields.io/github/stars/usnistgov/mgi-json-schema?style=social)](https://github.com/usnistgov/mgi-json-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/usnistgov/mgi-json-schema?style=social)
 
@@ -37,7 +39,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Related Compilations
 
-- [awesome materials informatics](https://github.com/tilde-lab/awesome-materials-informatics/edit/master/README.md): overview of software, data and initatives in the field of materials informatics
+- [MatPortal](https://matportal.org/): Collection of ontologies used in materials science.
+- [awesome materials informatics](https://github.com/tilde-lab/awesome-materials-informatics/edit/master/README.md): overview of software, data and initiatives in the field of materials informatics
 - [awesome chemical data](https://github.com/neo-chem/awesome-chemical-data): overview of chemical and materials data resources
 
 ## Credits
