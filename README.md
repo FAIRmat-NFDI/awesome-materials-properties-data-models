@@ -20,6 +20,10 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Properties from the NIST Materials Data Vocabulary Ontology (NMRRVOCAB)](https://matportal.org/ontologies/NMRRVOCAB/?p=classes&conceptid=http%3A%2F%2F192.168.1.4%2Fvocab%2F%3Ftema%3D100): Ontology for materials properties from the National Institute of Standards and Technology (NIST).
 
+### Domain-Specific Materials Ontologies
+
+- [Materials Design Ontology](https://github.com/LiUSemWeb/Materials-Design-Ontology) (MDO): "an ontology for materials design field, representing the domain knowledge specifically related to solid-state physics and computational materials science". Applied in practice to Open Databases Integration for Materials Design (OPTIMADE) API and therefore the big computational repos (AFLOW, OQMD, ...). Further material: [registration and graph visualization](https://liusemweb.github.io/mdo/full/1.1/index.html), [PhD thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1651803&dswid=-1784), [slides](https://ontocommons.eu/sites/default/files/2023-06/Huanyu%20Li_Use%20case%20DOME4.0%20and%20OntoCommons-lessons%20learnt%20for%20ontology%20based%20commons.pdf). All links accessed on August 9, 2023.
+
 ### Generic Data Models and Top-level Ontologies
 
 - [SciData](https://github.com/stuchalk/scidata): Scientific data model (SDM) and related ontology (SDMO). [![Github Stars](https://img.shields.io/github/stars/stuchalk/scidata?style=social)](https://github.com/stuchalk/scidata) ![GitHub last commit](https://img.shields.io/github/last-commit/stuchalk/scidata?style=social)
@@ -33,7 +37,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [NIST Materials Data Vocabulary Ontology (NMRRVOCAB)](https://matportal.org/ontologies/NMRRVOCAB): Materials data vocabulary ontology from the National Institute of Standards and Technology (NIST) as Simple Knowledge Organization System (SKOS).
 
 - [Chemical Information Ontology](https://github.com/egonw/semanticchemistry/): Aims to establish a standard in representing chemical information. In particular, it aims to produce an ontology to represent chemical structure and to richly describe chemical properties, whether intrinsic or computed." (direct quote from the `README`) [![Github Stars](https://img.shields.io/github/stars/egonw/semanticchemistry?style=social)](https://github.com/egonw/semanticchemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/egonw/semanticchemistry?style=social) [📄](https://doi.org/10.1371/journal.pone.0025513).
-
+  
 
 ## Initiatives | Consortia
 
