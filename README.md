@@ -37,7 +37,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [NIST Materials Data Vocabulary Ontology (NMRRVOCAB)](https://matportal.org/ontologies/NMRRVOCAB): Materials data vocabulary ontology from the National Institute of Standards and Technology (NIST) as Simple Knowledge Organization System (SKOS).
 
 - [Chemical Information Ontology](https://github.com/egonw/semanticchemistry/): Aims to establish a standard in representing chemical information. In particular, it aims to produce an ontology to represent chemical structure and to richly describe chemical properties, whether intrinsic or computed." (direct quote from the `README`) [![Github Stars](https://img.shields.io/github/stars/egonw/semanticchemistry?style=social)](https://github.com/egonw/semanticchemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/egonw/semanticchemistry?style=social) [📄](https://doi.org/10.1371/journal.pone.0025513).
-  
+
+  - [NFDICORE](https://ise-fizkarlsruhe.github.io/nfdicore/): core ontology that describes all resouces (datasets, data providers, persons, projects and other entities) in the data domain of NFDI. It serves as the basis for further domain specific ontologies, e.g. nfdi4culture ontology, nfdi4matwerk ontology, and contains mappings to numerous external vocabularies and ontologies. See also the [abstract presented at CoRDI 2023](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/371/520) and the related [NFDI4Culture Ontology](https://nfdi4culture.de/ontology)
 
 ## Initiatives | Consortia
 
