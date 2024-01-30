@@ -40,6 +40,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [NFDICORE](https://ise-fizkarlsruhe.github.io/nfdicore/): core ontology that describes all resouces (datasets, data providers, persons, projects and other entities) in the data domain of NFDI. It serves as the basis for further domain specific ontologies, e.g. nfdi4culture ontology, nfdi4matwerk ontology, and contains mappings to numerous external vocabularies and ontologies. See also the [abstract presented at CoRDI 2023](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/371/520) and the related [NFDI4Culture Ontology](https://nfdi4culture.de/ontology)
 
+- [QUDT](https://qudt.org/) Ontology collection about Quantities, Units, Dimensions and Data Types for science and engineering ([catalogue 2.1](https://www.qudt.org/2.1/catalog/qudt-catalog.html)), originally developed for the NASA Exploration Initiatives Ontology Models (NExIOM) project. It includes schemas (e.g. [classes of QUDT](https://www.qudt.org/2.1/catalog/qudt-catalog.html): Quantity, QuantityKind, QuantityKindDimensionVector, Unit) and vocabularies (e.g. individuals of [QuantityKind](https://www.qudt.org/doc/DOC_VOCAB-QUANTITY-KINDS.html), [QuantityKindDimensionVector](https://www.qudt.org/doc/DOC_VOCAB-DIMENSION-VECTORS.html), [Unit](https://www.qudt.org/doc/DOC_VOCAB-UNITS.html)) within various systems of quantity kinds (e.g. ISQ) and units (e.g. SI), including conversion factors for inferred conversion between units.
+
 ## Initiatives | Consortia
 
 - [NFDI4Ing](https://www.nfdi4ing.de/): Initiative to build an open and FAIR infrastructure for research data management in engineering.
