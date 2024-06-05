@@ -16,9 +16,11 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Physical information file (PIF)](https://citrineinformatics.github.io/pif-documentation/index.html): Schema for information about physical systems, maintained by Citrine informatics. [![Github Stars](https://img.shields.io/github/stars/CitrineInformatics/pypif?style=social)](https://github.com/CitrineInformatics/pypif) ![GitHub last commit](https://img.shields.io/github/last-commit/CitrineInformatics/pypif?style=social)
 
-- [Graphical Expression of Materials Data (GEMD)](https://citrineinformatics.github.io/gemd-docs/): - Open-source format that links together materials, the processes that produced them, and the measurements that characterize them. Initially developed by Citrine Informatics, supersedes PIF.
+- [Graphical Expression of Materials Data (GEMD)](https://citrineinformatics.github.io/gemd-docs/): Open-source format that links together materials, the processes that produced them, and the measurements that characterize them. Initially developed by Citrine Informatics, supersedes PIF.
 
 - [Properties from the NIST Materials Data Vocabulary Ontology (NMRRVOCAB)](https://matportal.org/ontologies/NMRRVOCAB/?p=classes&conceptid=http%3A%2F%2F192.168.1.4%2Fvocab%2F%3Ftema%3D100): Ontology for materials properties from the National Institute of Standards and Technology (NIST).
+
+- [Platform MaterialDigital core ontology (PMDco)](https://material-digital.de/ontologies/): Mid-level ontology for materials science and engineering (processes, experiments, computational workflow).
 
 ### Domain-Specific Materials Ontologies
 
